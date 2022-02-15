@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: onexample@mail.ru
+  nickname: Aleksandr
+  password_digest: ege3tt3t3trgsgdfg3sefsdgshdfh
+
+two:
+  email: twoexample@mail.ru
+  nickname: Mikle
+  password_digest: 4rsfsdfsdg56tfsdf3reehdffdgfg

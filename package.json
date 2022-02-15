@@ -1,0 +1,7 @@
+{
+  "name": "fps",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
